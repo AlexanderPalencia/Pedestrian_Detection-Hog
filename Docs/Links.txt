@@ -1,0 +1,52 @@
+Loading custom image datasets for deep learning models: Part 1
+https://www.fatalerrors.org/a/part-1.html
+
+Data Cleaning for Image Classification | by Aidan Coco | Medium
+https://aidancoco.medium.com/data-cleaning-for-image-classification-de9439ac1075
+
+ahmedfgad/HOGNumPy: Histogram of oriented gradients (HOG) Python implementation using NumPy.
+https://github.com/ahmedfgad/HOGNumPy
+
+Feature Descriptor | Hog Descriptor Tutorial
+https://www.analyticsvidhya.com/blog/2019/09/feature-engineering-images-introduction-hog-feature-descriptor/
+
+Histogram of Oriented Gradients explained using OpenCV
+https://learnopencv.com/histogram-of-oriented-gradients/
+
+Module: feature — skimage v0.19.0.dev0 docs
+https://scikit-image.org/docs/dev/api/skimage.feature.html#skimage.feature.hog
+
+Training a custom Object Detector with DLIB and Making Gesture Controlled Applications | LearnOpenCV
+https://learnopencv.com/training-a-custom-object-detector-with-dlib-making-gesture-controlled-applications/
+
+Image Recognition using Histogram of Oriented Gradients (HOG) Descriptor
+https://debuggercafe.com/image-recognition-using-histogram-of-oriented-gradients-hog-descriptor/
+
+Inbox (3,303) - alexchato23@gmail.com - Gmail
+https://mail.google.com/mail/u/0/#inbox
+
+np.array() : Create Numpy Array from list, tuple or list of lists in Python – thispointer.com
+https://thispointer.com/python-numpy-create-a-ndarray-from-list-tuple-or-list-of-lists-using-numpy-array/
+
+Feature Descriptor | Hog Descriptor Tutorial
+https://www.analyticsvidhya.com/blog/2019/09/feature-engineering-images-introduction-hog-feature-descriptor/
+
+Image Feature Extraction | Feature Extraction Using Python
+https://www.analyticsvidhya.com/blog/2019/08/3-techniques-extract-features-from-image-data-machine-learning-python/?utm_source=blog&utm_medium=understand-math-HOG-feature-descriptor
+
+Histogram of Oriented Gradients explained using OpenCV
+https://learnopencv.com/histogram-of-oriented-gradients/
+
+HOG (Histogram of Oriented Gradients): An Overview | by Mrinal Tyagi | Towards Data Science
+https://towardsdatascience.com/hog-histogram-of-oriented-gradients-67ecd887675f
+
+How to Apply HOG Feature Extraction in Python - Python Code
+https://www.thepythoncode.com/article/hog-feature-extraction-in-python
+
+Dalal-cvpr05.pdf
+http://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf
+
+HOG (Histogram of Oriented Gradients) Features (Theory and Implementation using MATLAB and Python) - YouTube
+https://www.youtube.com/watch?v=QmYJCxJWdEs
+
+https://evergreenllc2020.medium.com/fundamentals-of-image-gradients-and-edge-detection-b093662ade1b
